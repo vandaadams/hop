@@ -1,1 +1,1 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+HOP was our final project at Le Wagon. It is a social web app for discovering local beers. Although we have reached MVP, this project is still in progress. We are currently working on making it more responsive.
